@@ -1,0 +1,5596 @@
+{
+  "Loja": {
+    "Marcas": [
+      {
+        "Marca": "Nike",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 95,
+                "precoUnitario": 807.64
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 265,
+                "precoUnitario": 639.7
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 227,
+                "precoUnitario": 633.93
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 260,
+                "precoUnitario": 805.63
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 72,
+                "precoUnitario": 534.39
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 260,
+                "precoUnitario": 641.22
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 148,
+                "precoUnitario": 664.1
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 42,
+                "precoUnitario": 697.62
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 181,
+                "precoUnitario": 405.86
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 151,
+                "precoUnitario": 738.56
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 194,
+                "precoUnitario": 559.9
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 226,
+                "precoUnitario": 606.08
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 182,
+                "precoUnitario": 797.28
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 59,
+                "precoUnitario": 775.86
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 286,
+                "precoUnitario": 714.49
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 34,
+                "precoUnitario": 735.5
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 250,
+                "precoUnitario": 490.36
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 40,
+                "precoUnitario": 311.8
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 247,
+                "precoUnitario": 899.46
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 135,
+                "precoUnitario": 838.48
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 110,
+                "precoUnitario": 850.09
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 197,
+                "precoUnitario": 423.81
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 50,
+                "precoUnitario": 134.26
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 156,
+                "precoUnitario": 96.5
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 245,
+                "precoUnitario": 93.81
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 242,
+                "precoUnitario": 135.06
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 240,
+                "precoUnitario": 133.91
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 126,
+                "precoUnitario": 147.68
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 128,
+                "precoUnitario": 144.37
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 114,
+                "precoUnitario": 93.55
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 275,
+                "precoUnitario": 124.66
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 183,
+                "precoUnitario": 135.45
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 146,
+                "precoUnitario": 144.15
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 275,
+                "precoUnitario": 118.33
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 23,
+                "precoUnitario": 120.17
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 289,
+                "precoUnitario": 101.97
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 141,
+                "precoUnitario": 140.87
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 109,
+                "precoUnitario": 105.7
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 84,
+                "precoUnitario": 121.43
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 223,
+                "precoUnitario": 120.37
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 242,
+                "precoUnitario": 104.42
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 26,
+                "precoUnitario": 120.68
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 211,
+                "precoUnitario": 146.38
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 90,
+                "precoUnitario": 96.78
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 177,
+                "precoUnitario": 117.11
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 97,
+                "precoUnitario": 44.5
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 122,
+                "precoUnitario": 24.34
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 13,
+                "precoUnitario": 40.71
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 79,
+                "precoUnitario": 27.37
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 182,
+                "precoUnitario": 29.66
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 134,
+                "precoUnitario": 25.95
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 49,
+                "precoUnitario": 22.61
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 291,
+                "precoUnitario": 38.05
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 69,
+                "precoUnitario": 34.38
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 192,
+                "precoUnitario": 22.22
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 137,
+                "precoUnitario": 231.89
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 226,
+                "precoUnitario": 249.23
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 55,
+                "precoUnitario": 214.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Hoka",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 240,
+                "precoUnitario": 669.04
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 85,
+                "precoUnitario": 869.56
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 95,
+                "precoUnitario": 701.16
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 114,
+                "precoUnitario": 825.4
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 94,
+                "precoUnitario": 622.76
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 137,
+                "precoUnitario": 668.84
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 196,
+                "precoUnitario": 301.58
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 229,
+                "precoUnitario": 397.51
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 29,
+                "precoUnitario": 720.8
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 212,
+                "precoUnitario": 533.57
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 156,
+                "precoUnitario": 632.02
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 173,
+                "precoUnitario": 484.79
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 99,
+                "precoUnitario": 435.41
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 296,
+                "precoUnitario": 356.25
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 121,
+                "precoUnitario": 377.49
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 212,
+                "precoUnitario": 498.37
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 209,
+                "precoUnitario": 351.7
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 199,
+                "precoUnitario": 529.27
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 23,
+                "precoUnitario": 703.31
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 200,
+                "precoUnitario": 881.64
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 289,
+                "precoUnitario": 669.74
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 83,
+                "precoUnitario": 539.31
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 84,
+                "precoUnitario": 454.27
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 61,
+                "precoUnitario": 690.03
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 265,
+                "precoUnitario": 639.16
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 268,
+                "precoUnitario": 342.57
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 54,
+                "precoUnitario": 723.76
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 207,
+                "precoUnitario": 91.27
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 225,
+                "precoUnitario": 137.22
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 36,
+                "precoUnitario": 120.8
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 206,
+                "precoUnitario": 94.95
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 181,
+                "precoUnitario": 124.7
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 178,
+                "precoUnitario": 131.06
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 181,
+                "precoUnitario": 99.2
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 172,
+                "precoUnitario": 141.82
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 173,
+                "precoUnitario": 118.15
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 291,
+                "precoUnitario": 82.71
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 114,
+                "precoUnitario": 132.27
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 19,
+                "precoUnitario": 132.79
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 128,
+                "precoUnitario": 141.25
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 269,
+                "precoUnitario": 106.52
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 157,
+                "precoUnitario": 110.01
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 282,
+                "precoUnitario": 154.62
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 249,
+                "precoUnitario": 105.7
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 264,
+                "precoUnitario": 93.81
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 144,
+                "precoUnitario": 102.07
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 25,
+                "precoUnitario": 113.28
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 95,
+                "precoUnitario": 102.91
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 272,
+                "precoUnitario": 105.52
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 101,
+                "precoUnitario": 91.82
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 287,
+                "precoUnitario": 130.72
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 145,
+                "precoUnitario": 107.26
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 231,
+                "precoUnitario": 98.82
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 170,
+                "precoUnitario": 115.31
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 205,
+                "precoUnitario": 140.17
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 183,
+                "precoUnitario": 122.94
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 232,
+                "precoUnitario": 90.16
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 211,
+                "precoUnitario": 93.18
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 243,
+                "precoUnitario": 35.24
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 77,
+                "precoUnitario": 23.02
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 10,
+                "precoUnitario": 33.85
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 114,
+                "precoUnitario": 19.92
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 86,
+                "precoUnitario": 23.97
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 198,
+                "precoUnitario": 20.0
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 109,
+                "precoUnitario": 37.92
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 123,
+                "precoUnitario": 384.42
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 179,
+                "precoUnitario": 369.18
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 122,
+                "precoUnitario": 351.11
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Adidas",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 97,
+                "precoUnitario": 308.24
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 120,
+                "precoUnitario": 828.98
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 37,
+                "precoUnitario": 847.14
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 237,
+                "precoUnitario": 585.6
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 70,
+                "precoUnitario": 817.29
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 214,
+                "precoUnitario": 477.75
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 290,
+                "precoUnitario": 806.79
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 32,
+                "precoUnitario": 337.21
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 287,
+                "precoUnitario": 886.91
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 147,
+                "precoUnitario": 299.93
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 267,
+                "precoUnitario": 440.39
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 180,
+                "precoUnitario": 524.19
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 98,
+                "precoUnitario": 872.12
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 17,
+                "precoUnitario": 308.67
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 285,
+                "precoUnitario": 839.48
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 17,
+                "precoUnitario": 428.9
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 57,
+                "precoUnitario": 666.16
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 148,
+                "precoUnitario": 311.39
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 39,
+                "precoUnitario": 448.53
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 242,
+                "precoUnitario": 628.78
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 173,
+                "precoUnitario": 158.02
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 197,
+                "precoUnitario": 84.22
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 214,
+                "precoUnitario": 132.51
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 58,
+                "precoUnitario": 126.55
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 250,
+                "precoUnitario": 110.14
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 75,
+                "precoUnitario": 85.41
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 61,
+                "precoUnitario": 88.68
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 256,
+                "precoUnitario": 94.65
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 284,
+                "precoUnitario": 126.91
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 48,
+                "precoUnitario": 131.99
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 40,
+                "precoUnitario": 122.16
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 42,
+                "precoUnitario": 124.36
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 83,
+                "precoUnitario": 130.82
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 293,
+                "precoUnitario": 117.61
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 39,
+                "precoUnitario": 117.62
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 201,
+                "precoUnitario": 129.46
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 28,
+                "precoUnitario": 143.05
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 171,
+                "precoUnitario": 140.04
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 279,
+                "precoUnitario": 135.54
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 262,
+                "precoUnitario": 133.25
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 67,
+                "precoUnitario": 101.78
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 235,
+                "precoUnitario": 89.44
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 35,
+                "precoUnitario": 78.76
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 143,
+                "precoUnitario": 22.1
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 46,
+                "precoUnitario": 47.3
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 216,
+                "precoUnitario": 45.19
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 276,
+                "precoUnitario": 34.61
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 101,
+                "precoUnitario": 33.39
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 156,
+                "precoUnitario": 37.42
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 168,
+                "precoUnitario": 366.86
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 181,
+                "precoUnitario": 358.26
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 263,
+                "precoUnitario": 395.74
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 185,
+                "precoUnitario": 208.89
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Mizuno",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 21,
+                "precoUnitario": 707.54
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 126,
+                "precoUnitario": 349.41
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 241,
+                "precoUnitario": 626.76
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 168,
+                "precoUnitario": 697.88
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 84,
+                "precoUnitario": 748.22
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 188,
+                "precoUnitario": 498.54
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 82,
+                "precoUnitario": 505.13
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 134,
+                "precoUnitario": 331.74
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 51,
+                "precoUnitario": 570.96
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 104,
+                "precoUnitario": 850.26
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 221,
+                "precoUnitario": 607.48
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 118,
+                "precoUnitario": 606.27
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 81,
+                "precoUnitario": 625.08
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 185,
+                "precoUnitario": 598.46
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 223,
+                "precoUnitario": 598.6
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 50,
+                "precoUnitario": 531.16
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 226,
+                "precoUnitario": 805.9
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 66,
+                "precoUnitario": 821.16
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 44,
+                "precoUnitario": 594.11
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 154,
+                "precoUnitario": 575.39
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 37,
+                "precoUnitario": 132.24
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 283,
+                "precoUnitario": 147.05
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 150,
+                "precoUnitario": 126.41
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 46,
+                "precoUnitario": 89.81
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 191,
+                "precoUnitario": 113.12
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 260,
+                "precoUnitario": 110.67
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 122,
+                "precoUnitario": 143.25
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 290,
+                "precoUnitario": 146.78
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 60,
+                "precoUnitario": 134.0
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 32,
+                "precoUnitario": 116.79
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 252,
+                "precoUnitario": 84.62
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 118,
+                "precoUnitario": 79.95
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 14,
+                "precoUnitario": 143.24
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 222,
+                "precoUnitario": 106.96
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 186,
+                "precoUnitario": 131.54
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 187,
+                "precoUnitario": 131.41
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 97,
+                "precoUnitario": 139.44
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 86,
+                "precoUnitario": 106.04
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 63,
+                "precoUnitario": 111.87
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 206,
+                "precoUnitario": 129.53
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 243,
+                "precoUnitario": 91.49
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 207,
+                "precoUnitario": 109.07
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 167,
+                "precoUnitario": 142.88
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 270,
+                "precoUnitario": 112.73
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 293,
+                "precoUnitario": 91.2
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 57,
+                "precoUnitario": 113.17
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 137,
+                "precoUnitario": 96.26
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 256,
+                "precoUnitario": 114.09
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 61,
+                "precoUnitario": 98.45
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 63,
+                "precoUnitario": 36.87
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 250,
+                "precoUnitario": 39.12
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 266,
+                "precoUnitario": 34.04
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 154,
+                "precoUnitario": 29.17
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 59,
+                "precoUnitario": 44.89
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 172,
+                "precoUnitario": 33.69
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 114,
+                "precoUnitario": 26.02
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 27,
+                "precoUnitario": 26.55
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 50,
+                "precoUnitario": 47.65
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 200,
+                "precoUnitario": 384.76
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 252,
+                "precoUnitario": 356.94
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "New Balance",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 188,
+                "precoUnitario": 814.87
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 173,
+                "precoUnitario": 691.18
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 127,
+                "precoUnitario": 633.31
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 76,
+                "precoUnitario": 627.61
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 85,
+                "precoUnitario": 331.69
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 151,
+                "precoUnitario": 322.14
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 250,
+                "precoUnitario": 373.16
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 92,
+                "precoUnitario": 474.34
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 221,
+                "precoUnitario": 510.44
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 293,
+                "precoUnitario": 471.26
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 49,
+                "precoUnitario": 405.38
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 273,
+                "precoUnitario": 880.58
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 107,
+                "precoUnitario": 520.91
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 24,
+                "precoUnitario": 456.94
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 285,
+                "precoUnitario": 894.26
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 184,
+                "precoUnitario": 823.28
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 127,
+                "precoUnitario": 624.21
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 83,
+                "precoUnitario": 886.63
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 105,
+                "precoUnitario": 803.44
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 185,
+                "precoUnitario": 642.71
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 172,
+                "precoUnitario": 439.81
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 100,
+                "precoUnitario": 630.4
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 144,
+                "precoUnitario": 733.73
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 65,
+                "precoUnitario": 100.89
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 282,
+                "precoUnitario": 101.78
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 183,
+                "precoUnitario": 97.14
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 154,
+                "precoUnitario": 130.66
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 224,
+                "precoUnitario": 87.31
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 108,
+                "precoUnitario": 82.81
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 153,
+                "precoUnitario": 104.18
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 254,
+                "precoUnitario": 138.03
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 92,
+                "precoUnitario": 80.06
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 269,
+                "precoUnitario": 108.3
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 244,
+                "precoUnitario": 109.26
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 284,
+                "precoUnitario": 137.88
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 100,
+                "precoUnitario": 146.8
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 52,
+                "precoUnitario": 150.91
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 86,
+                "precoUnitario": 97.03
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 288,
+                "precoUnitario": 120.04
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 11,
+                "precoUnitario": 136.22
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 227,
+                "precoUnitario": 113.12
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 241,
+                "precoUnitario": 100.9
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 105,
+                "precoUnitario": 99.32
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 129,
+                "precoUnitario": 134.39
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 224,
+                "precoUnitario": 119.71
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 225,
+                "precoUnitario": 123.32
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 55,
+                "precoUnitario": 126.3
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 136,
+                "precoUnitario": 127.86
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 201,
+                "precoUnitario": 100.68
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 136,
+                "precoUnitario": 127.68
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 291,
+                "precoUnitario": 140.65
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 281,
+                "precoUnitario": 139.63
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 164,
+                "precoUnitario": 69.82
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 277,
+                "precoUnitario": 47.55
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 252,
+                "precoUnitario": 45.92
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 23,
+                "precoUnitario": 38.73
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 170,
+                "precoUnitario": 47.16
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 96,
+                "precoUnitario": 40.0
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 28,
+                "precoUnitario": 47.3
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 191,
+                "precoUnitario": 28.69
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 180,
+                "precoUnitario": 35.64
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 51,
+                "precoUnitario": 395.02
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 26,
+                "precoUnitario": 379.06
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Asics",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 143,
+                "precoUnitario": 684.3
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 189,
+                "precoUnitario": 654.46
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 119,
+                "precoUnitario": 476.39
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 298,
+                "precoUnitario": 745.69
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 258,
+                "precoUnitario": 569.09
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 38,
+                "precoUnitario": 586.52
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 123,
+                "precoUnitario": 667.72
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 217,
+                "precoUnitario": 795.3
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 57,
+                "precoUnitario": 356.05
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 60,
+                "precoUnitario": 503.3
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 85,
+                "precoUnitario": 799.04
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 219,
+                "precoUnitario": 482.96
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 214,
+                "precoUnitario": 554.38
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 64,
+                "precoUnitario": 484.86
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 122,
+                "precoUnitario": 474.42
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 64,
+                "precoUnitario": 596.93
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 227,
+                "precoUnitario": 667.3
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 63,
+                "precoUnitario": 397.05
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 167,
+                "precoUnitario": 83.47
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 70,
+                "precoUnitario": 144.88
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 10,
+                "precoUnitario": 100.79
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 253,
+                "precoUnitario": 80.1
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 91,
+                "precoUnitario": 118.74
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 45,
+                "precoUnitario": 83.25
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 49,
+                "precoUnitario": 125.23
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 37,
+                "precoUnitario": 88.35
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 294,
+                "precoUnitario": 80.95
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 196,
+                "precoUnitario": 83.45
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 228,
+                "precoUnitario": 112.16
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 279,
+                "precoUnitario": 90.08
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 268,
+                "precoUnitario": 116.5
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 124,
+                "precoUnitario": 100.43
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 261,
+                "precoUnitario": 117.57
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 75,
+                "precoUnitario": 139.44
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 20,
+                "precoUnitario": 107.74
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 21,
+                "precoUnitario": 93.62
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 292,
+                "precoUnitario": 111.43
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 163,
+                "precoUnitario": 114.62
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 160,
+                "precoUnitario": 148.42
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 294,
+                "precoUnitario": 128.07
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 36,
+                "precoUnitario": 129.34
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 168,
+                "precoUnitario": 98.54
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 270,
+                "precoUnitario": 147.09
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 285,
+                "precoUnitario": 123.49
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 298,
+                "precoUnitario": 102.54
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 49,
+                "precoUnitario": 90.13
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 141,
+                "precoUnitario": 60.39
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 207,
+                "precoUnitario": 128.8
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 50,
+                "precoUnitario": 43.34
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 231,
+                "precoUnitario": 35.57
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 65,
+                "precoUnitario": 23.38
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 33,
+                "precoUnitario": 47.28
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 127,
+                "precoUnitario": 39.26
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 127,
+                "precoUnitario": 21.17
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 73,
+                "precoUnitario": 38.81
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 50,
+                "precoUnitario": 303.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Olympikus",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 108,
+                "precoUnitario": 876.67
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 164,
+                "precoUnitario": 699.98
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 25,
+                "precoUnitario": 493.77
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 274,
+                "precoUnitario": 488.09
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 64,
+                "precoUnitario": 381.32
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 274,
+                "precoUnitario": 836.27
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 230,
+                "precoUnitario": 759.58
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 253,
+                "precoUnitario": 466.58
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 152,
+                "precoUnitario": 538.37
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 154,
+                "precoUnitario": 691.75
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 168,
+                "precoUnitario": 680.69
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 221,
+                "precoUnitario": 700.97
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 211,
+                "precoUnitario": 693.17
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 70,
+                "precoUnitario": 583.81
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 174,
+                "precoUnitario": 442.23
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 266,
+                "precoUnitario": 588.92
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 197,
+                "precoUnitario": 376.17
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 143,
+                "precoUnitario": 662.04
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 44,
+                "precoUnitario": 651.22
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 10,
+                "precoUnitario": 552.48
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 180,
+                "precoUnitario": 759.16
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 252,
+                "precoUnitario": 155.18
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 232,
+                "precoUnitario": 157.39
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 281,
+                "precoUnitario": 119.27
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 15,
+                "precoUnitario": 91.28
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 128,
+                "precoUnitario": 82.24
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 174,
+                "precoUnitario": 158.38
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 278,
+                "precoUnitario": 124.67
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 283,
+                "precoUnitario": 147.37
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 270,
+                "precoUnitario": 155.35
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 182,
+                "precoUnitario": 149.45
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 148,
+                "precoUnitario": 131.76
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 71,
+                "precoUnitario": 95.37
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 234,
+                "precoUnitario": 84.38
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 114,
+                "precoUnitario": 101.76
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 300,
+                "precoUnitario": 98.91
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 150,
+                "precoUnitario": 124.95
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 42,
+                "precoUnitario": 151.36
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 174,
+                "precoUnitario": 87.85
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 236,
+                "precoUnitario": 112.44
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 114,
+                "precoUnitario": 107.45
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 221,
+                "precoUnitario": 129.62
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 119,
+                "precoUnitario": 133.9
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 163,
+                "precoUnitario": 107.39
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 294,
+                "precoUnitario": 129.56
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 287,
+                "precoUnitario": 103.43
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 51,
+                "precoUnitario": 122.64
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 24,
+                "precoUnitario": 135.75
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 146,
+                "precoUnitario": 124.77
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 191,
+                "precoUnitario": 90.18
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 39,
+                "precoUnitario": 90.5
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 275,
+                "precoUnitario": 67.22
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 124,
+                "precoUnitario": 28.37
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 90,
+                "precoUnitario": 49.23
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 165,
+                "precoUnitario": 41.19
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 104,
+                "precoUnitario": 37.26
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 100,
+                "precoUnitario": 41.01
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 65,
+                "precoUnitario": 35.72
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 163,
+                "precoUnitario": 242.39
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 295,
+                "precoUnitario": 253.56
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 247,
+                "precoUnitario": 261.28
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 86,
+                "precoUnitario": 326.86
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Nike",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 122,
+                "precoUnitario": 394.96
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 83,
+                "precoUnitario": 518.85
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 69,
+                "precoUnitario": 697.63
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 57,
+                "precoUnitario": 664.76
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 74,
+                "precoUnitario": 532.27
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 269,
+                "precoUnitario": 698.57
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 227,
+                "precoUnitario": 339.13
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 210,
+                "precoUnitario": 862.06
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 222,
+                "precoUnitario": 656.28
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 206,
+                "precoUnitario": 637.15
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 235,
+                "precoUnitario": 659.96
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 295,
+                "precoUnitario": 681.96
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 29,
+                "precoUnitario": 603.77
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 15,
+                "precoUnitario": 760.52
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 151,
+                "precoUnitario": 407.15
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 94,
+                "precoUnitario": 841.22
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 226,
+                "precoUnitario": 813.32
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 85,
+                "precoUnitario": 337.07
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 255,
+                "precoUnitario": 330.35
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 112,
+                "precoUnitario": 822.66
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 202,
+                "precoUnitario": 422.26
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 143,
+                "precoUnitario": 670.43
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 239,
+                "precoUnitario": 339.15
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 142,
+                "precoUnitario": 764.17
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 128,
+                "precoUnitario": 87.96
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 101,
+                "precoUnitario": 82.62
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 273,
+                "precoUnitario": 115.42
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 73,
+                "precoUnitario": 149.47
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 47,
+                "precoUnitario": 95.49
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 75,
+                "precoUnitario": 119.13
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 221,
+                "precoUnitario": 123.45
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 299,
+                "precoUnitario": 90.35
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 265,
+                "precoUnitario": 135.64
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 272,
+                "precoUnitario": 115.93
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 64,
+                "precoUnitario": 148.82
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 253,
+                "precoUnitario": 97.77
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 283,
+                "precoUnitario": 134.6
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 183,
+                "precoUnitario": 91.56
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 42,
+                "precoUnitario": 127.65
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 265,
+                "precoUnitario": 115.9
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 110,
+                "precoUnitario": 133.08
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 296,
+                "precoUnitario": 149.77
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 189,
+                "precoUnitario": 134.69
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 248,
+                "precoUnitario": 116.9
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 71,
+                "precoUnitario": 100.34
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 244,
+                "precoUnitario": 135.54
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 297,
+                "precoUnitario": 112.56
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 199,
+                "precoUnitario": 41.47
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 66,
+                "precoUnitario": 23.9
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 28,
+                "precoUnitario": 35.13
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 51,
+                "precoUnitario": 24.21
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 194,
+                "precoUnitario": 275.06
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 26,
+                "precoUnitario": 348.52
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Hoka",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 148,
+                "precoUnitario": 556.48
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 79,
+                "precoUnitario": 601.12
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 25,
+                "precoUnitario": 887.38
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 145,
+                "precoUnitario": 302.74
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 202,
+                "precoUnitario": 626.95
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 266,
+                "precoUnitario": 677.04
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 168,
+                "precoUnitario": 887.14
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 196,
+                "precoUnitario": 660.15
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 104,
+                "precoUnitario": 746.59
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 212,
+                "precoUnitario": 349.7
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 37,
+                "precoUnitario": 856.85
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 240,
+                "precoUnitario": 353.29
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 100,
+                "precoUnitario": 523.71
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 169,
+                "precoUnitario": 879.51
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 101,
+                "precoUnitario": 858.08
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 284,
+                "precoUnitario": 758.9
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 227,
+                "precoUnitario": 825.59
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 255,
+                "precoUnitario": 733.14
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 273,
+                "precoUnitario": 687.35
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 59,
+                "precoUnitario": 837.99
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 206,
+                "precoUnitario": 397.59
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 297,
+                "precoUnitario": 532.22
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 48,
+                "precoUnitario": 868.38
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 31,
+                "precoUnitario": 856.37
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 52,
+                "precoUnitario": 514.0
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 297,
+                "precoUnitario": 141.61
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 61,
+                "precoUnitario": 155.18
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 203,
+                "precoUnitario": 119.18
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 191,
+                "precoUnitario": 99.51
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 236,
+                "precoUnitario": 81.23
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 200,
+                "precoUnitario": 146.45
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 288,
+                "precoUnitario": 148.08
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 69,
+                "precoUnitario": 108.67
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 243,
+                "precoUnitario": 93.8
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 104,
+                "precoUnitario": 91.75
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 267,
+                "precoUnitario": 107.45
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 213,
+                "precoUnitario": 113.99
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 270,
+                "precoUnitario": 126.19
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 162,
+                "precoUnitario": 101.4
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 71,
+                "precoUnitario": 144.9
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 288,
+                "precoUnitario": 144.26
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 268,
+                "precoUnitario": 94.2
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 102,
+                "precoUnitario": 137.18
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 187,
+                "precoUnitario": 144.92
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 195,
+                "precoUnitario": 112.83
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 28,
+                "precoUnitario": 116.88
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 169,
+                "precoUnitario": 82.61
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 178,
+                "precoUnitario": 86.64
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 37,
+                "precoUnitario": 88.8
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 119,
+                "precoUnitario": 21.22
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 219,
+                "precoUnitario": 35.98
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 190,
+                "precoUnitario": 41.02
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 250,
+                "precoUnitario": 21.22
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 116,
+                "precoUnitario": 42.36
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 225,
+                "precoUnitario": 33.26
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 89,
+                "precoUnitario": 315.58
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 261,
+                "precoUnitario": 277.24
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 219,
+                "precoUnitario": 315.96
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 61,
+                "precoUnitario": 212.22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Adidas",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 47,
+                "precoUnitario": 315.29
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 41,
+                "precoUnitario": 807.26
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 226,
+                "precoUnitario": 336.17
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 221,
+                "precoUnitario": 701.29
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 229,
+                "precoUnitario": 546.09
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 275,
+                "precoUnitario": 426.22
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 276,
+                "precoUnitario": 449.46
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 28,
+                "precoUnitario": 740.71
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 295,
+                "precoUnitario": 544.31
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 277,
+                "precoUnitario": 481.14
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 140,
+                "precoUnitario": 622.29
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 82,
+                "precoUnitario": 541.53
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 83,
+                "precoUnitario": 549.85
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 102,
+                "precoUnitario": 801.47
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 245,
+                "precoUnitario": 631.08
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 171,
+                "precoUnitario": 828.4
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 159,
+                "precoUnitario": 625.18
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 149,
+                "precoUnitario": 347.3
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 227,
+                "precoUnitario": 341.26
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 159,
+                "precoUnitario": 513.54
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 140,
+                "precoUnitario": 516.96
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 137,
+                "precoUnitario": 693.38
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 239,
+                "precoUnitario": 751.58
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 118,
+                "precoUnitario": 121.69
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 199,
+                "precoUnitario": 156.04
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 105,
+                "precoUnitario": 138.71
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 161,
+                "precoUnitario": 85.72
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 258,
+                "precoUnitario": 89.33
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 267,
+                "precoUnitario": 134.09
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 212,
+                "precoUnitario": 80.74
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 85,
+                "precoUnitario": 122.76
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 179,
+                "precoUnitario": 149.15
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 243,
+                "precoUnitario": 97.45
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 122,
+                "precoUnitario": 84.72
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 278,
+                "precoUnitario": 88.25
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 221,
+                "precoUnitario": 95.2
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 284,
+                "precoUnitario": 101.36
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 123,
+                "precoUnitario": 93.02
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 276,
+                "precoUnitario": 117.47
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 260,
+                "precoUnitario": 147.23
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 29,
+                "precoUnitario": 139.42
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 257,
+                "precoUnitario": 148.21
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 62,
+                "precoUnitario": 126.96
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 103,
+                "precoUnitario": 110.77
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 230,
+                "precoUnitario": 128.97
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 155,
+                "precoUnitario": 120.35
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 290,
+                "precoUnitario": 93.37
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 153,
+                "precoUnitario": 137.9
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 50,
+                "precoUnitario": 91.85
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 87,
+                "precoUnitario": 75.18
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 293,
+                "precoUnitario": 97.54
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 118,
+                "precoUnitario": 114.75
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 124,
+                "precoUnitario": 33.09
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 103,
+                "precoUnitario": 47.26
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 260,
+                "precoUnitario": 25.54
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 288,
+                "precoUnitario": 33.66
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 175,
+                "precoUnitario": 46.26
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 159,
+                "precoUnitario": 37.62
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 19,
+                "precoUnitario": 240.23
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 37,
+                "precoUnitario": 302.77
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Mizuno",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 53,
+                "precoUnitario": 401.88
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 78,
+                "precoUnitario": 853.07
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 102,
+                "precoUnitario": 809.26
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 193,
+                "precoUnitario": 769.66
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 32,
+                "precoUnitario": 303.39
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 119,
+                "precoUnitario": 312.18
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 138,
+                "precoUnitario": 364.54
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 264,
+                "precoUnitario": 309.43
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 90,
+                "precoUnitario": 400.56
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 70,
+                "precoUnitario": 775.11
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 29,
+                "precoUnitario": 689.64
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 220,
+                "precoUnitario": 834.07
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 69,
+                "precoUnitario": 307.83
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 54,
+                "precoUnitario": 338.31
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 130,
+                "precoUnitario": 668.53
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 48,
+                "precoUnitario": 708.23
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 239,
+                "precoUnitario": 511.59
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 206,
+                "precoUnitario": 734.11
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 280,
+                "precoUnitario": 688.08
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 144,
+                "precoUnitario": 448.38
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 99,
+                "precoUnitario": 779.25
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 124,
+                "precoUnitario": 107.32
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 145,
+                "precoUnitario": 102.41
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 191,
+                "precoUnitario": 140.35
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 189,
+                "precoUnitario": 154.21
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 160,
+                "precoUnitario": 136.57
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 199,
+                "precoUnitario": 95.43
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 132,
+                "precoUnitario": 83.51
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 13,
+                "precoUnitario": 108.12
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 162,
+                "precoUnitario": 85.6
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 47,
+                "precoUnitario": 152.71
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 12,
+                "precoUnitario": 134.53
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 34,
+                "precoUnitario": 132.82
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 73,
+                "precoUnitario": 113.48
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 244,
+                "precoUnitario": 131.16
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 10,
+                "precoUnitario": 130.99
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 126,
+                "precoUnitario": 149.29
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 44,
+                "precoUnitario": 147.22
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 126,
+                "precoUnitario": 145.47
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 216,
+                "precoUnitario": 147.77
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 214,
+                "precoUnitario": 105.83
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 254,
+                "precoUnitario": 135.74
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 133,
+                "precoUnitario": 96.66
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 72,
+                "precoUnitario": 139.32
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 245,
+                "precoUnitario": 122.22
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 161,
+                "precoUnitario": 77.4
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 255,
+                "precoUnitario": 42.82
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 126,
+                "precoUnitario": 31.06
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 88,
+                "precoUnitario": 23.71
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 287,
+                "precoUnitario": 35.43
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 51,
+                "precoUnitario": 24.11
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 204,
+                "precoUnitario": 29.94
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 196,
+                "precoUnitario": 33.8
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 230,
+                "precoUnitario": 45.17
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 221,
+                "precoUnitario": 237.18
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 152,
+                "precoUnitario": 352.7
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 292,
+                "precoUnitario": 398.21
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 223,
+                "precoUnitario": 266.02
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "New Balance",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 144,
+                "precoUnitario": 363.56
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 22,
+                "precoUnitario": 332.0
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 41,
+                "precoUnitario": 849.12
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 129,
+                "precoUnitario": 349.09
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 57,
+                "precoUnitario": 886.42
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 55,
+                "precoUnitario": 879.76
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 41,
+                "precoUnitario": 399.26
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 183,
+                "precoUnitario": 551.38
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 105,
+                "precoUnitario": 845.15
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 219,
+                "precoUnitario": 592.13
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 54,
+                "precoUnitario": 602.63
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 83,
+                "precoUnitario": 634.21
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 255,
+                "precoUnitario": 876.51
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 67,
+                "precoUnitario": 776.81
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 22,
+                "precoUnitario": 687.48
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 290,
+                "precoUnitario": 799.59
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 26,
+                "precoUnitario": 537.05
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 26,
+                "precoUnitario": 482.28
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 148,
+                "precoUnitario": 350.57
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 254,
+                "precoUnitario": 689.24
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 187,
+                "precoUnitario": 693.47
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 64,
+                "precoUnitario": 137.82
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 164,
+                "precoUnitario": 135.18
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 210,
+                "precoUnitario": 91.15
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 263,
+                "precoUnitario": 152.32
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 133,
+                "precoUnitario": 128.03
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 72,
+                "precoUnitario": 113.07
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 160,
+                "precoUnitario": 83.66
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 133,
+                "precoUnitario": 114.84
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 197,
+                "precoUnitario": 139.18
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 16,
+                "precoUnitario": 86.22
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 259,
+                "precoUnitario": 119.55
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 33,
+                "precoUnitario": 95.27
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 23,
+                "precoUnitario": 155.62
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 278,
+                "precoUnitario": 135.26
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 265,
+                "precoUnitario": 115.64
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 245,
+                "precoUnitario": 134.15
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 64,
+                "precoUnitario": 119.43
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 274,
+                "precoUnitario": 123.47
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 117,
+                "precoUnitario": 126.69
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 135,
+                "precoUnitario": 32.96
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 172,
+                "precoUnitario": 25.5
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 266,
+                "precoUnitario": 43.69
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 100,
+                "precoUnitario": 37.78
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 250,
+                "precoUnitario": 29.42
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 226,
+                "precoUnitario": 45.22
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 164,
+                "precoUnitario": 26.66
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 105,
+                "precoUnitario": 47.99
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 173,
+                "precoUnitario": 43.88
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 259,
+                "precoUnitario": 21.61
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 250,
+                "precoUnitario": 318.04
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Asics",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 73,
+                "precoUnitario": 808.1
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 259,
+                "precoUnitario": 759.99
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 92,
+                "precoUnitario": 866.75
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 94,
+                "precoUnitario": 386.9
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 250,
+                "precoUnitario": 330.76
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 165,
+                "precoUnitario": 660.73
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 69,
+                "precoUnitario": 894.0
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 119,
+                "precoUnitario": 356.03
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 237,
+                "precoUnitario": 573.72
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 139,
+                "precoUnitario": 615.47
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 140,
+                "precoUnitario": 874.69
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 29,
+                "precoUnitario": 514.75
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 203,
+                "precoUnitario": 836.83
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 191,
+                "precoUnitario": 599.67
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 205,
+                "precoUnitario": 598.51
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 171,
+                "precoUnitario": 399.61
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 89,
+                "precoUnitario": 517.6
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 150,
+                "precoUnitario": 841.5
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 164,
+                "precoUnitario": 579.6
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 128,
+                "precoUnitario": 359.45
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 75,
+                "precoUnitario": 777.86
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 268,
+                "precoUnitario": 462.1
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 104,
+                "precoUnitario": 570.96
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 215,
+                "precoUnitario": 535.01
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 153,
+                "precoUnitario": 730.45
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 225,
+                "precoUnitario": 805.16
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 102,
+                "precoUnitario": 718.46
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 264,
+                "precoUnitario": 134.71
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 140,
+                "precoUnitario": 140.23
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 237,
+                "precoUnitario": 86.24
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 39,
+                "precoUnitario": 154.91
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 205,
+                "precoUnitario": 138.13
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 23,
+                "precoUnitario": 144.7
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 17,
+                "precoUnitario": 114.42
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 29,
+                "precoUnitario": 153.61
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 295,
+                "precoUnitario": 135.44
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 65,
+                "precoUnitario": 135.86
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 141,
+                "precoUnitario": 118.77
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 25,
+                "precoUnitario": 147.87
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 128,
+                "precoUnitario": 135.12
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 234,
+                "precoUnitario": 132.13
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 296,
+                "precoUnitario": 96.51
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 223,
+                "precoUnitario": 102.45
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 213,
+                "precoUnitario": 140.65
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 157,
+                "precoUnitario": 121.47
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 183,
+                "precoUnitario": 148.03
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 24,
+                "precoUnitario": 122.83
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 147,
+                "precoUnitario": 127.67
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 91,
+                "precoUnitario": 23.88
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 122,
+                "precoUnitario": 39.93
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 10,
+                "precoUnitario": 36.55
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 22,
+                "precoUnitario": 38.84
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 79,
+                "precoUnitario": 38.14
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 159,
+                "precoUnitario": 40.82
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 256,
+                "precoUnitario": 21.7
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 150,
+                "precoUnitario": 36.02
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 292,
+                "precoUnitario": 275.08
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 234,
+                "precoUnitario": 274.05
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 11,
+                "precoUnitario": 260.28
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 157,
+                "precoUnitario": 225.14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Olympikus",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 236,
+                "precoUnitario": 643.6
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 112,
+                "precoUnitario": 451.99
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 105,
+                "precoUnitario": 529.17
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 230,
+                "precoUnitario": 625.38
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 176,
+                "precoUnitario": 553.24
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 105,
+                "precoUnitario": 630.44
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 121,
+                "precoUnitario": 305.17
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 286,
+                "precoUnitario": 421.66
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 198,
+                "precoUnitario": 722.12
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 117,
+                "precoUnitario": 546.88
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 275,
+                "precoUnitario": 343.56
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 83,
+                "precoUnitario": 397.0
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 238,
+                "precoUnitario": 470.83
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 117,
+                "precoUnitario": 660.26
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 210,
+                "precoUnitario": 683.52
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 259,
+                "precoUnitario": 863.18
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 19,
+                "precoUnitario": 788.61
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 154,
+                "precoUnitario": 802.36
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 166,
+                "precoUnitario": 540.55
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 179,
+                "precoUnitario": 763.31
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 254,
+                "precoUnitario": 345.13
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 182,
+                "precoUnitario": 465.72
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 170,
+                "precoUnitario": 422.36
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 212,
+                "precoUnitario": 773.02
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 131,
+                "precoUnitario": 714.55
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 271,
+                "precoUnitario": 310.71
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 265,
+                "precoUnitario": 152.24
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 259,
+                "precoUnitario": 110.05
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 149,
+                "precoUnitario": 134.15
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 277,
+                "precoUnitario": 90.17
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 290,
+                "precoUnitario": 129.52
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 144,
+                "precoUnitario": 156.81
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 151,
+                "precoUnitario": 115.83
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 35,
+                "precoUnitario": 89.82
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 230,
+                "precoUnitario": 151.23
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 146,
+                "precoUnitario": 148.87
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 79,
+                "precoUnitario": 96.2
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 153,
+                "precoUnitario": 127.09
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 140,
+                "precoUnitario": 100.52
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 176,
+                "precoUnitario": 135.5
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 190,
+                "precoUnitario": 119.78
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 129,
+                "precoUnitario": 120.59
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 244,
+                "precoUnitario": 92.77
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 273,
+                "precoUnitario": 143.62
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 120,
+                "precoUnitario": 137.82
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 58,
+                "precoUnitario": 113.45
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 241,
+                "precoUnitario": 108.68
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 163,
+                "precoUnitario": 120.33
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 134,
+                "precoUnitario": 129.39
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 297,
+                "precoUnitario": 105.71
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 114,
+                "precoUnitario": 94.68
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 218,
+                "precoUnitario": 130.5
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 154,
+                "precoUnitario": 69.39
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 269,
+                "precoUnitario": 32.1
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 193,
+                "precoUnitario": 33.33
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 298,
+                "precoUnitario": 31.87
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 95,
+                "precoUnitario": 35.95
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 144,
+                "precoUnitario": 21.18
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 141,
+                "precoUnitario": 39.84
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 129,
+                "precoUnitario": 212.37
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Nike",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 182,
+                "precoUnitario": 630.31
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 173,
+                "precoUnitario": 548.04
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 39,
+                "precoUnitario": 555.04
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 251,
+                "precoUnitario": 865.44
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 236,
+                "precoUnitario": 557.22
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 186,
+                "precoUnitario": 651.82
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 110,
+                "precoUnitario": 612.56
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 11,
+                "precoUnitario": 862.78
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 76,
+                "precoUnitario": 379.8
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 196,
+                "precoUnitario": 699.65
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 235,
+                "precoUnitario": 711.69
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 253,
+                "precoUnitario": 713.01
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 88,
+                "precoUnitario": 782.51
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 33,
+                "precoUnitario": 436.98
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 186,
+                "precoUnitario": 441.43
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 168,
+                "precoUnitario": 634.52
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 83,
+                "precoUnitario": 421.01
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 230,
+                "precoUnitario": 535.86
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 11,
+                "precoUnitario": 834.99
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 224,
+                "precoUnitario": 301.31
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 174,
+                "precoUnitario": 544.81
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 227,
+                "precoUnitario": 131.02
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 193,
+                "precoUnitario": 149.32
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 122,
+                "precoUnitario": 149.74
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 64,
+                "precoUnitario": 96.7
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 56,
+                "precoUnitario": 148.79
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 264,
+                "precoUnitario": 144.89
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 111,
+                "precoUnitario": 153.62
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 237,
+                "precoUnitario": 99.84
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 80,
+                "precoUnitario": 109.57
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 113,
+                "precoUnitario": 129.79
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 263,
+                "precoUnitario": 156.58
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 139,
+                "precoUnitario": 150.08
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 117,
+                "precoUnitario": 119.37
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 124,
+                "precoUnitario": 134.98
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 229,
+                "precoUnitario": 92.56
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 214,
+                "precoUnitario": 119.59
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 210,
+                "precoUnitario": 92.48
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 283,
+                "precoUnitario": 145.22
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 262,
+                "precoUnitario": 110.79
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 277,
+                "precoUnitario": 104.39
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 66,
+                "precoUnitario": 99.35
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 51,
+                "precoUnitario": 105.24
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 180,
+                "precoUnitario": 123.23
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 209,
+                "precoUnitario": 124.62
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 21,
+                "precoUnitario": 144.72
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 144,
+                "precoUnitario": 139.54
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 184,
+                "precoUnitario": 96.72
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 84,
+                "precoUnitario": 130.71
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 161,
+                "precoUnitario": 61.89
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 200,
+                "precoUnitario": 64.12
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 180,
+                "precoUnitario": 91.57
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 91,
+                "precoUnitario": 46.03
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 101,
+                "precoUnitario": 39.43
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 244,
+                "precoUnitario": 22.12
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 77,
+                "precoUnitario": 44.99
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 157,
+                "precoUnitario": 37.74
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 236,
+                "precoUnitario": 245.32
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 197,
+                "precoUnitario": 207.63
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 210,
+                "precoUnitario": 381.75
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 54,
+                "precoUnitario": 208.19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Hoka",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 172,
+                "precoUnitario": 410.11
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 289,
+                "precoUnitario": 780.88
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 181,
+                "precoUnitario": 319.81
+              },
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 98,
+                "precoUnitario": 498.48
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 144,
+                "precoUnitario": 640.58
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 68,
+                "precoUnitario": 685.85
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 100,
+                "precoUnitario": 448.62
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 38,
+                "precoUnitario": 665.03
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 42,
+                "precoUnitario": 484.72
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 270,
+                "precoUnitario": 357.1
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 77,
+                "precoUnitario": 525.25
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 205,
+                "precoUnitario": 363.35
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 139,
+                "precoUnitario": 883.81
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 162,
+                "precoUnitario": 453.17
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 205,
+                "precoUnitario": 303.2
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 133,
+                "precoUnitario": 634.75
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 137,
+                "precoUnitario": 718.13
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 164,
+                "precoUnitario": 525.02
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 251,
+                "precoUnitario": 339.0
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 264,
+                "precoUnitario": 887.34
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 104,
+                "precoUnitario": 328.4
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 299,
+                "precoUnitario": 769.43
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 186,
+                "precoUnitario": 699.43
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 264,
+                "precoUnitario": 541.63
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 218,
+                "precoUnitario": 145.54
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 279,
+                "precoUnitario": 145.44
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 215,
+                "precoUnitario": 111.88
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 119,
+                "precoUnitario": 99.92
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 47,
+                "precoUnitario": 150.56
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 213,
+                "precoUnitario": 144.92
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 266,
+                "precoUnitario": 150.76
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 85,
+                "precoUnitario": 98.72
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 16,
+                "precoUnitario": 137.24
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 118,
+                "precoUnitario": 136.55
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 219,
+                "precoUnitario": 134.24
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 273,
+                "precoUnitario": 154.97
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 244,
+                "precoUnitario": 97.93
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 148,
+                "precoUnitario": 105.92
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 258,
+                "precoUnitario": 147.44
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 34,
+                "precoUnitario": 144.26
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 121,
+                "precoUnitario": 94.37
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 153,
+                "precoUnitario": 146.43
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 74,
+                "precoUnitario": 102.93
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 257,
+                "precoUnitario": 92.86
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 12,
+                "precoUnitario": 114.54
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 119,
+                "precoUnitario": 125.73
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 182,
+                "precoUnitario": 121.25
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 94,
+                "precoUnitario": 94.21
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 176,
+                "precoUnitario": 147.26
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 151,
+                "precoUnitario": 133.67
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 40,
+                "precoUnitario": 106.25
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 43,
+                "precoUnitario": 21.82
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 168,
+                "precoUnitario": 21.77
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 44,
+                "precoUnitario": 27.17
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 101,
+                "precoUnitario": 39.13
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 167,
+                "precoUnitario": 35.36
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 114,
+                "precoUnitario": 30.73
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 176,
+                "precoUnitario": 40.69
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 94,
+                "precoUnitario": 26.21
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 154,
+                "precoUnitario": 29.31
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 87,
+                "precoUnitario": 47.62
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "\u00d3culos",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 114,
+                "precoUnitario": 334.4
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 197,
+                "precoUnitario": 218.98
+              },
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 212,
+                "precoUnitario": 209.07
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Marca": "Adidas",
+        "Categoria": [
+          {
+            "idSubCategoria": "T\u00eanis",
+            "Tamanhos": [
+              {
+                "Tamanho": 36,
+                "quantidadeCompras": 59,
+                "precoUnitario": 751.62
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 94,
+                "precoUnitario": 533.92
+              },
+              {
+                "Tamanho": 37,
+                "quantidadeCompras": 126,
+                "precoUnitario": 890.24
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 201,
+                "precoUnitario": 412.25
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 112,
+                "precoUnitario": 882.14
+              },
+              {
+                "Tamanho": 38,
+                "quantidadeCompras": 229,
+                "precoUnitario": 825.92
+              },
+              {
+                "Tamanho": 39,
+                "quantidadeCompras": 150,
+                "precoUnitario": 891.43
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 258,
+                "precoUnitario": 879.97
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 40,
+                "precoUnitario": 707.49
+              },
+              {
+                "Tamanho": 40,
+                "quantidadeCompras": 300,
+                "precoUnitario": 883.29
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 165,
+                "precoUnitario": 865.89
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 211,
+                "precoUnitario": 519.88
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 130,
+                "precoUnitario": 793.06
+              },
+              {
+                "Tamanho": 41,
+                "quantidadeCompras": 109,
+                "precoUnitario": 417.73
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 125,
+                "precoUnitario": 544.24
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 110,
+                "precoUnitario": 436.61
+              },
+              {
+                "Tamanho": 42,
+                "quantidadeCompras": 183,
+                "precoUnitario": 887.47
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 276,
+                "precoUnitario": 825.3
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 260,
+                "precoUnitario": 485.28
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 44,
+                "precoUnitario": 630.12
+              },
+              {
+                "Tamanho": 43,
+                "quantidadeCompras": 178,
+                "precoUnitario": 671.72
+              },
+              {
+                "Tamanho": 44,
+                "quantidadeCompras": 215,
+                "precoUnitario": 667.91
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Camiseta",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 247,
+                "precoUnitario": 87.39
+              },
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 71,
+                "precoUnitario": 85.9
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 18,
+                "precoUnitario": 157.46
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 195,
+                "precoUnitario": 155.53
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 247,
+                "precoUnitario": 150.19
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 188,
+                "precoUnitario": 111.13
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 13,
+                "precoUnitario": 80.95
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 49,
+                "precoUnitario": 94.99
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 172,
+                "precoUnitario": 104.41
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 250,
+                "precoUnitario": 138.91
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 246,
+                "precoUnitario": 108.28
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Shorts",
+            "Tamanhos": [
+              {
+                "Tamanho": "PP",
+                "quantidadeCompras": 188,
+                "precoUnitario": 122.84
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 239,
+                "precoUnitario": 127.11
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 209,
+                "precoUnitario": 118.55
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 253,
+                "precoUnitario": 141.58
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 29,
+                "precoUnitario": 144.41
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 129,
+                "precoUnitario": 118.01
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 16,
+                "precoUnitario": 93.21
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 216,
+                "precoUnitario": 135.61
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 21,
+                "precoUnitario": 129.54
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 167,
+                "precoUnitario": 120.45
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 184,
+                "precoUnitario": 115.16
+              },
+              {
+                "Tamanho": "GG",
+                "quantidadeCompras": 163,
+                "precoUnitario": 102.34
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Bon\u00e9",
+            "Tamanhos": [
+              {
+                "Tamanho": "\u00danico",
+                "quantidadeCompras": 126,
+                "precoUnitario": 108.13
+              }
+            ]
+          },
+          {
+            "idSubCategoria": "Meia",
+            "Tamanhos": [
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 77,
+                "precoUnitario": 30.65
+              },
+              {
+                "Tamanho": "P",
+                "quantidadeCompras": 23,
+                "precoUnitario": 30.0
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 135,
+                "precoUnitario": 39.62
+              },
+              {
+                "Tamanho": "M",
+                "quantidadeCompras": 29,
+                "precoUnitario": 39.66
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 21,
+                "precoUnitario": 22.7
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 273,
+                "precoUnitario": 33.17
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 233,
+                "precoUnitario": 27.52
+              },
+              {
+                "Tamanho": "G",
+                "quantidadeCompras": 170,
+                "precoUnitario": 48.81
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
